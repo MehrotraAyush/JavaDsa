@@ -1,4 +1,4 @@
-package Array;
+package Searching;
 
 public class LinerSearch {
     public static boolean search(int []arr,int target){
