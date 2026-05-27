@@ -5,7 +5,7 @@ public class GetLowerBond {
         int n=arr.length;
         int s=0;
         int e=n-1;
-        int ans=-1;
+        int ans=n;
 
         while (s<=e){
             int mid=s+(e-s)/2;
